@@ -333,7 +333,7 @@ namespace Отрезок_между_функциями
             Console.WriteLine("Длина отрезка ab: " + Math.Round(len, 3));
             Console.ReadKey(true);
             Console.Clear();
-            Main(args); //мигающий текст
+            Main(args);
         }
     }
 }
